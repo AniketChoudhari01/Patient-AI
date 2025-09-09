@@ -73,7 +73,9 @@ The project allows students to upload **past patient histories (PDFs)**, which a
 
 
 ### Hindi Prototype (Work in Progress – Step 2)  
-*(Add placeholder for future Hindi screenshots)*  
+<img width="938" height="578" alt="image" src="https://github.com/user-attachments/assets/9bda6844-bbc6-4c09-ad72-5ec800981ca9" />
+
+<img width="954" height="526" alt="image" src="https://github.com/user-attachments/assets/1a2991de-3a4c-4aeb-92d5-274c07aba8ab" />
 
 ---
 
