@@ -97,6 +97,6 @@ git clone https://github.com/AniketChoudhari01/patient-ai.git
 - Maintains patient confidentiality – no data leaves the local machine.
 
 ## Team members
-- Aniket Choudhari (CS22B1010, GitHub: [Aniket-Choudhari-01](https://github.com/Aniket-Choudhari-01))
+- Aniket Choudhari (CS22B1010, GitHub: [AniketChoudhari01](https://github.com/AniketChoudhari01))
 - Aditya Kumar Singh (CS22B1001, GitHub: [Adityacse1001](https://github.com/Adityacse1001/Adityacse1001))
 - Ankit Kujur (CS21B1005, GitHub: [AnkitKujur](https://github.com/Akitkujur025))
