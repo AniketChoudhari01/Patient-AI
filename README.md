@@ -1,4 +1,4 @@
-# 🤖 Patient AI – Virtual Medical Training Assistant  
+# 🤖 Patient AI – AI Driven Virtual Patient Simulation Using LLM's  
 
 ## Table of Contents  
 - [Overview](#overview)  
@@ -84,3 +84,19 @@ The project allows students to upload **past patient histories (PDFs)**, which a
 ### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/AniketChoudhari01/patient-ai.git
+```
+## Future Vision
+- Practice patient interaction in multiple languages.
+- Get evaluated and scored by an AI judge.
+- Maintain sessions & progress history.
+- Train in a secure offline environment without risking patient data.
+
+## Why This Project Matters
+- Helps medical students practice clinical questioning in a safe way.
+- Provides a realistic simulation of patient interactions.
+- Maintains patient confidentiality – no data leaves the local machine.
+
+## Team members
+- Aniket Choudhari (CS22B1010, GitHub: [Aniket-Choudhari-01](https://github.com/Aniket-Choudhari-01))
+- Aditya Kumar Singh (CS22B1001, GitHub: [Adityacse1001](https://github.com/Adityacse1001/Adityacse1001))
+- Ankit Kujur (CS21B1005, GitHub: [AnkitKujur](https://github.com/Akitkujur025))
