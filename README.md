@@ -3,7 +3,8 @@
 ## Table of Contents  
 - [Overview](#overview)  
 - [Project Goals](#project-goals)  
-- [Features](#features)  
+- [Features](#features)
+- [System Architecture](#system-architecture)
 - [Tech Stack](#tech-stack)  
 - [Current Workflow](#current-workflow)  
 - [Screenshots](#screenshots)  
@@ -46,6 +47,8 @@ The project allows students to upload **past patient histories (PDFs)**, which a
 - 🛡️ **Local Setup** – No internet or external API calls required.  
 
 ---
+## System Architecture
+<img width="1129" height="917" alt="image" src="https://github.com/user-attachments/assets/c4806ccf-717f-4278-a2d8-566bf80683fa" />
 
 ## Tech Stack  
 - [Python](https://www.python.org/)  
@@ -76,6 +79,9 @@ The project allows students to upload **past patient histories (PDFs)**, which a
 <img width="938" height="578" alt="image" src="https://github.com/user-attachments/assets/9bda6844-bbc6-4c09-ad72-5ec800981ca9" />
 
 <img width="954" height="526" alt="image" src="https://github.com/user-attachments/assets/1a2991de-3a4c-4aeb-92d5-274c07aba8ab" />
+
+### Phase 3 (Gemma-12B)
+<img width="1081" height="787" alt="image" src="https://github.com/user-attachments/assets/f300f262-edb3-4610-9869-f9af5e60b042" />
 
 ---
 
